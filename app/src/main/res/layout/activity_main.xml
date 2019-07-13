@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light"
+    android:orientation="horizontal"
+    android:id="@+id/main"
+    >
+
+    <LinearLayout
+        android:id="@+id/Layout2"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:weightSum="1.5">
+
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black"
+            />
+
+        <Button
+            android:id="@+id/bw2"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+
+        <Button
+            android:id="@+id/bw4"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+
+        <Button
+            android:id="@+id/bw6"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw7"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+
+        <Button
+            android:id="@+id/bw8"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw9"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+
+        <Button
+            android:id="@+id/bw10"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw11"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+
+        <Button
+            android:id="@+id/bw12"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw13"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+
+        <Button
+            android:id="@+id/bw14"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_weight=".1"
+            android:background="@android:color/holo_red_light"
+            android:layout_marginTop="-60dp"
+
+            />
+
+        <Button
+            android:id="@+id/bw15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1"
+            android:background="@android:color/black" />
+    </LinearLayout>
+
+
+</LinearLayout>
